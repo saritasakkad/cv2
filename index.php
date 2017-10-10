@@ -3,7 +3,7 @@
 	<head>
 
 		<title>cv akkad</title>
-
+				<meta charset="utf-8">
         <meta name="viewport" content="width=device-width" />
         <link rel="stylesheet" href="./asset/css/style.css">
         <link rel="stylesheet" href="jquery-3.2.1.js" />
