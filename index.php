@@ -12,8 +12,6 @@
 	<body>
 
 <!-- navigateur -->
-
-
 			<div class="overlay-navigation">
 			<nav role="navigation">
 				<ul>
@@ -34,11 +32,7 @@
 				<span class="bar-bottom"></span>
 			</div>
 
-
-
-
 <!-- content-section -->
-
 
 		<div class="content-section">
 
