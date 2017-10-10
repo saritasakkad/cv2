@@ -8,10 +8,6 @@
         <link rel="stylesheet" href="./asset/css/style.css">
         <link rel="stylesheet" href="jquery-3.2.1.js" />
 
-
-
-
-
 	</head>
 	<body>
 
